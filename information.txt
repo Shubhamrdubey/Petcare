@@ -1,0 +1,14 @@
+for user model
+
+    *username
+    *password 
+    *first name
+    *last name
+    *email
+
+    age
+    address
+    gender
+    number
+    profession
+    
