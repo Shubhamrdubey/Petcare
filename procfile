@@ -1,1 +1,0 @@
-web: gunicorn pets.wsgi --log-file -
